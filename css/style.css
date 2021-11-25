@@ -1,0 +1,17 @@
+/* this is the comment style.css for index page*/
+
+h1,h2,p {
+   color: red;
+   background-color: lightgray;
+}
+
+#wel {
+    color:green;
+    background-color:lightcyan;
+}
+
+.fat {
+    color: purple;
+    background-color: lightpink;
+}
+
